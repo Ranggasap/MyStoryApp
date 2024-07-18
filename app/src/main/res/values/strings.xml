@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="on_boarding_image">On Boarding Image</string>
+    <string name="title_onboarding_page">Selamat Datang di My Story App</string>
+    <string name="message_onboarding_page">Di My Story App kamu dapat berbagi cerita unik, romantis, horror bahkan menegangkan ke seluruh pengguna My Story App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="message_login_page">Ayok login dlu dengan akunmu</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="title_register_page">Buat akun dengan mengisi form ini</string>
+    <string name="register_image_content_description">register image</string>
+    <string name="validation_empty_field">Semua Field Harus Terisi</string>
+    <string name="validation_email_invalid">Email harus valid</string>
+    <string name="validation_password_invalid">Password minimal 8 kata</string>
+    <string name="register_success">Registrasi Berhasil</string>
+    <string name="logout">Logout</string>
+    <string name="story_image_view">gambar story</string>
+    <string name="deskripsi_story">Deskripsi story</string>
+    <string name="nama_pencipta">Nama Pencipta</string>
+</resources>
